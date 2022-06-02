@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\net5.0\01. Reverse a String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\refint\01. Reverse a String.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\01. Reverse a String.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\net5.0\ref\01. Reverse a String.dll
