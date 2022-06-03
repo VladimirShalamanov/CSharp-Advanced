@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\bin\Debug\net5.0\06. Supermarket.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\refint\06. Supermarket.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\06. Supermarket.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Lab\06. Supermarket\obj\Debug\net5.0\ref\06. Supermarket.dll
