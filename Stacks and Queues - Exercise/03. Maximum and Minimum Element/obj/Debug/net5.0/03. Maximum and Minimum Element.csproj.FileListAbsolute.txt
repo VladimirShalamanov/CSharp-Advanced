@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\bin\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\refint\03. Maximum and Minimum Element.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\03. Maximum and Minimum Element.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\03. Maximum and Minimum Element\obj\Debug\net5.0\ref\03. Maximum and Minimum Element.dll
