@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\net5.0\08. Balanced Parenthesis.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\refint\08. Balanced Parenthesis.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\08. Balanced Parenthesis.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\net5.0\ref\08. Balanced Parenthesis.dll
