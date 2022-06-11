@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\net5.0\03. Primary Diagonal.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\refint\03. Primary Diagonal.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\03. Primary Diagonal.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\net5.0\ref\03. Primary Diagonal.dll
