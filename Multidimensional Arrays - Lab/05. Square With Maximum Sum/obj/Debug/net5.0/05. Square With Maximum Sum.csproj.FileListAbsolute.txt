@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\net5.0\05. Square With Maximum Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\refint\05. Square With Maximum Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\05. Square With Maximum Sum.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\net5.0\ref\05. Square With Maximum Sum.dll
