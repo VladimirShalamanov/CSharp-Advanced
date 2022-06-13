@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\net5.0\02. Average Student Grades.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\refint\02. Average Student Grades.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\02. Average Student Grades.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\net5.0\ref\02. Average Student Grades.dll

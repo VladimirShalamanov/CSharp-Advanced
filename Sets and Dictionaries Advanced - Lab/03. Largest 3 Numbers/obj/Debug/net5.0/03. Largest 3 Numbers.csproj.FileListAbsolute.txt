@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net5.0\03. Largest 3 Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\refint\03. Largest 3 Numbers.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\03. Largest 3 Numbers.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net5.0\ref\03. Largest 3 Numbers.dll
