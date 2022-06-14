@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\bin\Debug\net5.0\05. Cities by Continent and Country.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\refint\05. Cities by Continent and Country.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\05. Cities by Continent and Country.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Lab\05. Cities by Continent and Country\obj\Debug\net5.0\ref\05. Cities by Continent and Country.dll
