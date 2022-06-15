@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\net5.0\01. Unique Usernames.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\refint\01. Unique Usernames.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\01. Unique Usernames.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\net5.0\ref\01. Unique Usernames.dll

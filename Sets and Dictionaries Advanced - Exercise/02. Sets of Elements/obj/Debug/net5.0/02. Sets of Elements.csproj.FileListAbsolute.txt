@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\net5.0\02. Sets of Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\refint\02. Sets of Elements.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\02. Sets of Elements.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\net5.0\ref\02. Sets of Elements.dll
