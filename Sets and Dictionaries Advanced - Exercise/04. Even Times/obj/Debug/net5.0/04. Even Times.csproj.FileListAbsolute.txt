@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\net5.0\04. Even Times.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\refint\04. Even Times.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\04. Even Times.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\net5.0\ref\04. Even Times.dll

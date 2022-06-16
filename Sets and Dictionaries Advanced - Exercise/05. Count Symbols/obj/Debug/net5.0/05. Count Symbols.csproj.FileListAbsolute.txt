@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net5.0\05. Count Symbols.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\refint\05. Count Symbols.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\05. Count Symbols.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net5.0\ref\05. Count Symbols.dll
