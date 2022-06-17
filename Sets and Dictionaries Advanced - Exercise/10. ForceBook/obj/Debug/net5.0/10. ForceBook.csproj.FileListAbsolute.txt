@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\bin\Debug\net5.0\10. ForceBook.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\refint\10. ForceBook.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\10. ForceBook.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\10. ForceBook\obj\Debug\net5.0\ref\10. ForceBook.dll
