@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\net5.0\07. The V-Logger.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\refint\07. The V-Logger.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\07. The V-Logger.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\net5.0\ref\07. The V-Logger.dll
