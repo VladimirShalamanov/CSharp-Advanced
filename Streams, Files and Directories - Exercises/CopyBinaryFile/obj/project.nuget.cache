@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCZ0I1Api6fJEfwZE9W25WTBMHW0cBf3M9OCoUTIyEoOVBroPyLBKnChTgUwq+mwe1UIO3GDdl3fTvy/Zbb6PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Skeleton-Exercise\\Skeleton\\CopyBinaryFile\\CopyBinaryFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
