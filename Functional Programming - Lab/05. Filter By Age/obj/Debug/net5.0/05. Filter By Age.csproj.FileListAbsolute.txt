@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\bin\Debug\net5.0\05. Filter By Age.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\refint\05. Filter By Age.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\05. Filter By Age.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\05. Filter By Age\obj\Debug\net5.0\ref\05. Filter By Age.dll
