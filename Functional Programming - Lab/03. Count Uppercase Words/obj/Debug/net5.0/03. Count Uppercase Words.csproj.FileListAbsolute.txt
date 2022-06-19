@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\net5.0\03. Count Uppercase Words.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\refint\03. Count Uppercase Words.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\03. Count Uppercase Words.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\net5.0\ref\03. Count Uppercase Words.dll
