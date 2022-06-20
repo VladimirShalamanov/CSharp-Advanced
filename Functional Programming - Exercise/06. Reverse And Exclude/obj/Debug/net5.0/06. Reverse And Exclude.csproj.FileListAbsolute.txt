@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\refint\06. Reverse And Exclude.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\06. Reverse And Exclude.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net5.0\ref\06. Reverse And Exclude.dll
