@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\bin\Debug\net5.0\03. Custom Min Function.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\refint\03. Custom Min Function.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\03. Custom Min Function.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\03. Custom Min Function\obj\Debug\net5.0\ref\03. Custom Min Function.dll

@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\bin\Debug\net5.0\01. Action Print.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\refint\01. Action Print.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\01. Action Print.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\01. Action Print\obj\Debug\net5.0\ref\01. Action Print.dll
