@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\refint\09. Predicate Party!.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\09. Predicate Party!\obj\Debug\net5.0\ref\09. Predicate Party!.dll

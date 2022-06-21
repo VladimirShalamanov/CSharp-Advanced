@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\net5.0\07. Predicate For Names.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\refint\07. Predicate For Names.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\07. Predicate For Names.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\net5.0\ref\07. Predicate For Names.dll
