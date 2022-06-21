@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\bin\Debug\net5.0\10. The Party Reservation Filter Module.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\refint\10. The Party Reservation Filter Module.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\10. The Party Reservation Filter Module.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Functional Programming - Exercise\10. The Party Reservation Filter Module\obj\Debug\net5.0\ref\10. The Party Reservation Filter Module.dll
