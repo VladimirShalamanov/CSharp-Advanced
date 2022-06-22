@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache
