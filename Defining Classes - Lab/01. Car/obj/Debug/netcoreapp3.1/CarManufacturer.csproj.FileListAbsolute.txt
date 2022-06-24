@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

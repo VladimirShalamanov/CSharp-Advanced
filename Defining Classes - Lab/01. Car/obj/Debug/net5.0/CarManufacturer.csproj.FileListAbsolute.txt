@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\bin\Debug\net5.0\CarManufacturer.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\refint\CarManufacturer.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\CarManufacturer.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Defining Classes - Lab\01. Car\obj\Debug\net5.0\ref\CarManufacturer.dll
