@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache
