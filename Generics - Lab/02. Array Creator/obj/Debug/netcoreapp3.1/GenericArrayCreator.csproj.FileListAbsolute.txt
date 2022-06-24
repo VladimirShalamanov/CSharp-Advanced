@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache
