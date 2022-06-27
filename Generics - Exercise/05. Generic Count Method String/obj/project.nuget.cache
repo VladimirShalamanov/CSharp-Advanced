@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V8Fx0b3rVRM0Qu5ozCMNjhP/0Jc/LGFQ/Griu4flYuPboHCtM47m+YRP8o+ITXfZFYSAPjMpFUKjQsUCe06PRw==",
+  "success": true,
+  "projectFilePath": "D:\\Документи\\twa onowa\\_SOFTUNI\\Advanced - C#\\Generics - Exercise\\05. Generic Count Method String\\Box5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\bond.core.csharp\\10.0.0\\bond.core.csharp.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
