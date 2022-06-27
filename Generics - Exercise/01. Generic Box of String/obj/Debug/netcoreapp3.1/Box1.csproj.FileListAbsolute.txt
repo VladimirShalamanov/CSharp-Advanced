@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\Box1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\Box1.genruntimeconfig.cache
