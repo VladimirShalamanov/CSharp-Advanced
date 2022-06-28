@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Lab\02. LibraryIterator\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
