@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache
