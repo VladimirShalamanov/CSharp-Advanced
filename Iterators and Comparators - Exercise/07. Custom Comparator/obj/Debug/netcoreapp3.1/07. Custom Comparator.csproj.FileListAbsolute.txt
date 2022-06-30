@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.genruntimeconfig.cache
