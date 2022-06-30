@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp3.1\ComparingObjects.genruntimeconfig.cache

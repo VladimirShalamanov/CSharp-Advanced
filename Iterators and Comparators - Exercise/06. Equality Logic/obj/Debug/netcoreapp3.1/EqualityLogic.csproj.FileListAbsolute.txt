@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\06. Equality Logic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache
