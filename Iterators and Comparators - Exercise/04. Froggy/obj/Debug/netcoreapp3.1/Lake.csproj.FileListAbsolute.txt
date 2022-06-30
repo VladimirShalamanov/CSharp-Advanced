@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp3.1\Lake.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp3.1\Lake.genruntimeconfig.cache

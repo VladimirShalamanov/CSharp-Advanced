@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Iterators and Comparators - Exercise\03. Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
