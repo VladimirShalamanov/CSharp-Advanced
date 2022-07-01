@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Meal Plan", "01. Meal Plan\01. Meal Plan.csproj", "{081ACA83-B57F-4E32-8F5C-C21AC78526DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Truffle Hunter", "02. Truffle Hunter\02. Truffle Hunter.csproj", "{561193A4-7DA2-4209-82CD-26DF16180354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081ACA83-B57F-4E32-8F5C-C21AC78526DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081ACA83-B57F-4E32-8F5C-C21AC78526DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081ACA83-B57F-4E32-8F5C-C21AC78526DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081ACA83-B57F-4E32-8F5C-C21AC78526DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561193A4-7DA2-4209-82CD-26DF16180354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561193A4-7DA2-4209-82CD-26DF16180354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561193A4-7DA2-4209-82CD-26DF16180354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561193A4-7DA2-4209-82CD-26DF16180354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D247BD-7ED5-445A-B013-62648C9B37F7}
+	EndGlobalSection
+EndGlobal
