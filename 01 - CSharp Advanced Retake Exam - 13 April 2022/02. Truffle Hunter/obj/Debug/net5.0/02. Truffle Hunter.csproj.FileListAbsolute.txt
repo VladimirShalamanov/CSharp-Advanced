@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\bin\Debug\net5.0\02. Truffle Hunter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\refint\02. Truffle Hunter.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\02. Truffle Hunter.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\01 - CSharp Advanced Retake Exam - 13 April 2022\02. Truffle Hunter\obj\Debug\net5.0\ref\02. Truffle Hunter.dll
