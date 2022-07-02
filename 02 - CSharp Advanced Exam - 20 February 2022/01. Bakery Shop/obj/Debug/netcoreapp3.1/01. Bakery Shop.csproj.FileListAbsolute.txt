@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\bin\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\02 - CSharp Advanced Exam - 20 February 2022\01. Bakery Shop\obj\Debug\netcoreapp3.1\01. Bakery Shop.genruntimeconfig.cache
