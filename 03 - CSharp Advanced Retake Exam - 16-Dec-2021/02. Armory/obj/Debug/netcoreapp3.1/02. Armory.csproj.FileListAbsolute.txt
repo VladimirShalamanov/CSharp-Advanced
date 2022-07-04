@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\bin\Debug\netcoreapp3.1\02. Armory.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\02. Armory\obj\Debug\netcoreapp3.1\02. Armory.genruntimeconfig.cache

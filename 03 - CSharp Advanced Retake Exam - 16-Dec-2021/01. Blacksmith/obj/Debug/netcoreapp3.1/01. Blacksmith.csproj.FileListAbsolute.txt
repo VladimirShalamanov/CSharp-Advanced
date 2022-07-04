@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\bin\Debug\netcoreapp3.1\01. Blacksmith.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\01. Blacksmith\obj\Debug\netcoreapp3.1\01. Blacksmith.genruntimeconfig.cache

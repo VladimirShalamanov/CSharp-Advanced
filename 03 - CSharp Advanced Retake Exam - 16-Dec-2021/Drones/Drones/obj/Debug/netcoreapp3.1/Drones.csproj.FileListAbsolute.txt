@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\03 - CSharp Advanced Retake Exam - 16-Dec-2021\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache
