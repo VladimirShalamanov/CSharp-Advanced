@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.genruntimeconfig.cache
