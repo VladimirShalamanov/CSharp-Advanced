@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\CSharp Advanced Exam - 23 October 2021\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.genruntimeconfig.cache
