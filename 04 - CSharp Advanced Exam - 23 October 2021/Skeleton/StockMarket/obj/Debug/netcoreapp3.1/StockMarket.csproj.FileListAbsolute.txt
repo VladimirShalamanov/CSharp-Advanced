@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\04 - CSharp Advanced Exam - 23 October 2021\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
