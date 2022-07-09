@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\net5.0\01. Diagonal Difference.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\refint\01. Diagonal Difference.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\01. Diagonal Difference.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\net5.0\ref\01. Diagonal Difference.dll
