@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\net5.0\02. Squares in Matrix.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\refint\02. Squares in Matrix.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\02. Squares in Matrix.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\net5.0\ref\02. Squares in Matrix.dll
