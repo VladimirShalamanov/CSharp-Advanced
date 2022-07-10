@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\net5.0\03. Maximal Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\refint\03. Maximal Sum.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\03. Maximal Sum.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\net5.0\ref\03. Maximal Sum.dll
