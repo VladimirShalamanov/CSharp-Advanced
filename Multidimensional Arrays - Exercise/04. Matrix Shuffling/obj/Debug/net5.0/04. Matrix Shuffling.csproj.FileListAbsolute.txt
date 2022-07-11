@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\net5.0\04. Matrix Shuffling.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\refint\04. Matrix Shuffling.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\04. Matrix Shuffling.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\net5.0\ref\04. Matrix Shuffling.dll

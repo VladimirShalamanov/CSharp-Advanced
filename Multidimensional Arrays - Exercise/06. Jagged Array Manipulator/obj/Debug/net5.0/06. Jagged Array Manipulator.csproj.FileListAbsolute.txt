@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\bin\Debug\net5.0\06. Jagged Array Manipulator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\refint\06. Jagged Array Manipulator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\06. Jagged Array Manipulator.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\obj\Debug\net5.0\ref\06. Jagged Array Manipulator.dll

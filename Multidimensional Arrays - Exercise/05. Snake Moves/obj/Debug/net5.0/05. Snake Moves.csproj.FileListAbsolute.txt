@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\net5.0\05. Snake Moves.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\refint\05. Snake Moves.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\05. Snake Moves.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\net5.0\ref\05. Snake Moves.dll
