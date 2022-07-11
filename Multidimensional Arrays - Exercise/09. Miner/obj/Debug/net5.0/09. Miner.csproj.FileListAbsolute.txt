@@ -1,0 +1,16 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\bin\Debug\net5.0\09. Miner.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\refint\09. Miner.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\09. Miner.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Multidimensional Arrays - Exercise\09. Miner\obj\Debug\net5.0\ref\09. Miner.dll
