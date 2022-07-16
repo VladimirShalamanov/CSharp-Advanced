@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Birthday Celebration", "01. Birthday Celebration\01. Birthday Celebration.csproj", "{83F729CD-DD29-4E07-8E79-881FB968511A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. The Battle of The Five Armies", "02. The Battle of The Five Armies\02. The Battle of The Five Armies.csproj", "{0A9BFF34-2B1B-403D-8D79-F99A44DD3A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F729CD-DD29-4E07-8E79-881FB968511A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F729CD-DD29-4E07-8E79-881FB968511A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F729CD-DD29-4E07-8E79-881FB968511A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F729CD-DD29-4E07-8E79-881FB968511A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9BFF34-2B1B-403D-8D79-F99A44DD3A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9BFF34-2B1B-403D-8D79-F99A44DD3A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9BFF34-2B1B-403D-8D79-F99A44DD3A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9BFF34-2B1B-403D-8D79-F99A44DD3A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCA61DA-5A18-41DD-BE99-D7D55DF998C6}
+	EndGlobalSection
+EndGlobal
