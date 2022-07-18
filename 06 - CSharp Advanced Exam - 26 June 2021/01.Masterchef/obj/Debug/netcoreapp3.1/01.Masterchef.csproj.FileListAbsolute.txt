@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\bin\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\01.Masterchef\obj\Debug\netcoreapp3.1\01.Masterchef.genruntimeconfig.cache
