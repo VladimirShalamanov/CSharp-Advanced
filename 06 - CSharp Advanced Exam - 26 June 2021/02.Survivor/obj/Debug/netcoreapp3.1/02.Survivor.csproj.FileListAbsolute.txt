@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
