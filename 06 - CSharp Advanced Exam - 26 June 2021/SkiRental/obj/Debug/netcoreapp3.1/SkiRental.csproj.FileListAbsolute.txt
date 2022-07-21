@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\06 - CSharp Advanced Exam - 26 June 2021\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache
