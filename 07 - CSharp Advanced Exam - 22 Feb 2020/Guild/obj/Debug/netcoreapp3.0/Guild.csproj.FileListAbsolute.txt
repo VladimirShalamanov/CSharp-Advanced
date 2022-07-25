@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\bin\Debug\netcoreapp3.1\02. Re-Volt.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\07 - CSharp Advanced Exam - 22 Feb 2020\02. Re-Volt\obj\Debug\netcoreapp3.1\02. Re-Volt.genruntimeconfig.cache
