@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.exe
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.deps.json
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.runtimeconfig.json
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.dll
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\bin\Debug\netcoreapp3.1\02.Super Mario.pdb
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.AssemblyInfo.cs
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.dll
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.pdb
+C:\Users\Admin\source\repos\08 - CSharp Advanced Retake Exam - 14 April 2021\02.Super Mario\obj\Debug\netcoreapp3.1\02.Super Mario.genruntimeconfig.cache
