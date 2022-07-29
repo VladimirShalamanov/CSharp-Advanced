@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\08 - CSharp Advanced Retake Exam - 14 April 2021\Skeleton\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
