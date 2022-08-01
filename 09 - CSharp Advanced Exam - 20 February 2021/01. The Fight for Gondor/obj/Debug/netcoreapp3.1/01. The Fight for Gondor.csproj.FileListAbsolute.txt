@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\09 - CSharp Advanced Exam - 20 February 2021\01. The Fight for Gondor\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache
