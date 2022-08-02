@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp3.1\Farm1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp3.1\Farm1.genruntimeconfig.cache
