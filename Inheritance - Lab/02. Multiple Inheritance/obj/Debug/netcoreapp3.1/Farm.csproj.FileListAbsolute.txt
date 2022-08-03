@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache
