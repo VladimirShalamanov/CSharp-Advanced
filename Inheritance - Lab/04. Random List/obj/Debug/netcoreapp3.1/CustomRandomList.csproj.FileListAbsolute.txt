@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
