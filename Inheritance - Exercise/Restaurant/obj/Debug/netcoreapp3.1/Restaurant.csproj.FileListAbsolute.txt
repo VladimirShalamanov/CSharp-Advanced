@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

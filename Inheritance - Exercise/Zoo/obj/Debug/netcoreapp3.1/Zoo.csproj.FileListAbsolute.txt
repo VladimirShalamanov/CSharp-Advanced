@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
