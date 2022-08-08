@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

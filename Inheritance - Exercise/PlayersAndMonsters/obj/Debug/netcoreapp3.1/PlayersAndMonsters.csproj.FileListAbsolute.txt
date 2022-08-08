@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
