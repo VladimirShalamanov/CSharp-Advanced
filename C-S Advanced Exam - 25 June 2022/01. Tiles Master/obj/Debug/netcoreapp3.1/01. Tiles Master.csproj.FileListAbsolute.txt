@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\bin\Debug\netcoreapp3.1\01. Tiles Master.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\C-S Advanced Exam - 25 June 2022\01. Tiles Master\obj\Debug\netcoreapp3.1\01. Tiles Master.genruntimeconfig.cache
