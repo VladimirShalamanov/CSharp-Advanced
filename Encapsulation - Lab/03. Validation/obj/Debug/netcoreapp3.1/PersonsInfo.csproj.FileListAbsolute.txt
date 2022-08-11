@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
