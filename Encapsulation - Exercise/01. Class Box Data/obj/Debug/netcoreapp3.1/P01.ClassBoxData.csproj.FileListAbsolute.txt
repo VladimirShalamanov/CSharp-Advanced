@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\bin\Debug\netcoreapp3.1\P01.ClassBoxData.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\01. Class Box Data\obj\Debug\netcoreapp3.1\P01.ClassBoxData.genruntimeconfig.cache
