@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\bin\Debug\netcoreapp3.1\P05.FootballTeamGenerator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\05. Football Team Generator\obj\Debug\netcoreapp3.1\P05.FootballTeamGenerator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\bin\Debug\netcoreapp3.1\P04PizzaCalories.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\04. Pizza Calories\obj\Debug\netcoreapp3.1\P04PizzaCalories.genruntimeconfig.cache
