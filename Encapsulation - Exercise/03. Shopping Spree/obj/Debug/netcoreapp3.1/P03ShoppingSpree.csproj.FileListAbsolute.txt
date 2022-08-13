@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\bin\Debug\netcoreapp3.1\P03ShoppingSpree.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Encapsulation - Exercise\03. Shopping Spree\obj\Debug\netcoreapp3.1\P03ShoppingSpree.genruntimeconfig.cache
