@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
