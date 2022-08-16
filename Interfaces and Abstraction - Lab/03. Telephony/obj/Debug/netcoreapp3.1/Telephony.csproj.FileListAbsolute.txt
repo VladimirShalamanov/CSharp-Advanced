@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\03. Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
