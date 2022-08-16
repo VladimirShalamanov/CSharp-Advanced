@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp3.1\01. Define an Interface IPerson.genruntimeconfig.cache

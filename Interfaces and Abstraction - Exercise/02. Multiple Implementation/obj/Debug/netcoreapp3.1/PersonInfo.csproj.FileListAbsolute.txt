@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
