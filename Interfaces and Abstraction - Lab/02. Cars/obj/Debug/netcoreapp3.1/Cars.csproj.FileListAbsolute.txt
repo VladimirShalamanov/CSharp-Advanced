@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
