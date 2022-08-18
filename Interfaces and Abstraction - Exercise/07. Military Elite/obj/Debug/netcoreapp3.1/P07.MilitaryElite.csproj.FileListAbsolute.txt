@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\07. Military Elite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.genruntimeconfig.cache

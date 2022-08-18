@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
