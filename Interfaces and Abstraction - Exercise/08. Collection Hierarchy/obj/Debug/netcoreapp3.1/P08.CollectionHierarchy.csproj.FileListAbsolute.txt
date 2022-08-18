@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\08. Collection Hierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.genruntimeconfig.cache

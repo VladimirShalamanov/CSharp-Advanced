@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Interfaces and Abstraction - Exercise\09. Explicit Interfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.genruntimeconfig.cache
