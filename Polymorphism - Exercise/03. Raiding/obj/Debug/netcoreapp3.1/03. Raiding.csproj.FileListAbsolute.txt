@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.genruntimeconfig.cache
