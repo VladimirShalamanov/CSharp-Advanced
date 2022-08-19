@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp3.1\P02.VehiclesExtension.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp3.1\P02.VehiclesExtension.genruntimeconfig.cache

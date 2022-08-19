@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\bin\Debug\netcoreapp3.1\P01.Vehicles.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\01. Vehicles\obj\Debug\netcoreapp3.1\P01.Vehicles.genruntimeconfig.cache
