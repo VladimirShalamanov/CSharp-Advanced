@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

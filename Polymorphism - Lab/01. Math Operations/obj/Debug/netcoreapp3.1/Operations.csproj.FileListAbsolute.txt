@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
