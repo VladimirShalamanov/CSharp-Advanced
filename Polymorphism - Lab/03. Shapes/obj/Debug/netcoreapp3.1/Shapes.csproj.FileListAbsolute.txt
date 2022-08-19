@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
