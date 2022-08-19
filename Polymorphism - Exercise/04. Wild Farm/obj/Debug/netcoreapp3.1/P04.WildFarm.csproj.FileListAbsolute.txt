@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\P04.WildFarm.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\P04.WildFarm.genruntimeconfig.cache
