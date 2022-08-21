@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\netcoreapp3.1\01. Square Root.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\netcoreapp3.1\01. Square Root.genruntimeconfig.cache
