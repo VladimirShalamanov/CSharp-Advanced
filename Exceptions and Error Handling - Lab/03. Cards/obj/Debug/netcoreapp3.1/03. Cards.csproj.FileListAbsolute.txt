@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\bin\Debug\netcoreapp3.1\03. Cards.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\03. Cards\obj\Debug\netcoreapp3.1\03. Cards.genruntimeconfig.cache

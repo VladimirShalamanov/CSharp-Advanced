@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\bin\Debug\netcoreapp3.1\04. Sum of Integers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\04. Sum of Integers\obj\Debug\netcoreapp3.1\04. Sum of Integers.genruntimeconfig.cache
