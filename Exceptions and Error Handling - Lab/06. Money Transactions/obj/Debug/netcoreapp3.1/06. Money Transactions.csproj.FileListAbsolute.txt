@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\bin\Debug\netcoreapp3.1\06. Money Transactions.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Exceptions and Error Handling - Lab\06. Money Transactions\obj\Debug\netcoreapp3.1\06. Money Transactions.genruntimeconfig.cache
