@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\Stealer1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\Stealer1.genruntimeconfig.cache
