@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\bin\Debug\netcoreapp3.1\05. Play Catch.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Play Catch\obj\Debug\netcoreapp3.1\05. Play Catch.genruntimeconfig.cache

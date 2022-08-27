@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
