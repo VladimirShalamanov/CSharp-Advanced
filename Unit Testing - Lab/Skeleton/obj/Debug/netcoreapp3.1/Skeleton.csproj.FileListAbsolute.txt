@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\Desktop\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\Desktop\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
