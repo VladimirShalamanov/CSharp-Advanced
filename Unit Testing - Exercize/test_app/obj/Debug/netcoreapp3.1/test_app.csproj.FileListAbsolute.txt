@@ -1,0 +1,14 @@
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\bin\Debug\netcoreapp3.1\test_app.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Unit Testing - Exercize\test_app\obj\Debug\netcoreapp3.1\test_app.genruntimeconfig.cache
