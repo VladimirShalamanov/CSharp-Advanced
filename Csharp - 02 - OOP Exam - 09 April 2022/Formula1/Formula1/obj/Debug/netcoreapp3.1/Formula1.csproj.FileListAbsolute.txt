@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\Admin\Desktop\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\Admin\Desktop\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 02 - OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
