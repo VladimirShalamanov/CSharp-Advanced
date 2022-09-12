@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\Admin\Desktop\Csharp - 07 -  OOP Retake Exam - 18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
