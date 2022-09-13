@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Документи\twa onowa\_SOFTUNI\Advanced - C#\Csharp - 08 -  OOP Exam - 10 April 2021\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\Admin\Desktop\Csharp - 08 -  OOP Exam - 10 April 2021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
